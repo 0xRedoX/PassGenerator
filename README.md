@@ -8,7 +8,7 @@
 3. if the user-entered int is not equal-to/greater-then 8 then it gives a instruction string "Password length must be up to 8 Characters".
 ---------------------------------------------------------------------------
 #terminal view:
-. user@user~$: python3 passgen.py.
-. PassLength:> 8. 
-. GeneratedPass:> "\0&3Vj1I".
+0. user@user~$: python3 passgen.py.
+0. PassLength:> 8. 
+0. GeneratedPass:> "\0&3Vj1I".
 ---------------------------------------------------------------------------
